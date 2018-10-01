@@ -8,10 +8,5 @@ public class Uf41 {
     public void metode3(){}
     public void fantasma()
     {
-        int cont = 3;
-        do{
-        System.out.println("Soc un fantasma");
-        cont--;
-        }while(cont >0);
     }
 }
